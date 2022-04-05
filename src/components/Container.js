@@ -1,6 +1,6 @@
 import styles from "../style.module.css"
 
-import Buttons from "./Buttons"
+import Buttons from "./Buttons.js"
 import { useState } from "react";
 import React from "react";
 

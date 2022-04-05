@@ -1,5 +1,5 @@
 import styles from "./style.module.css"
-import Container from "./components/Container";
+import Container from "./components/Container.js";
 
 
 function App() {
